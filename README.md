@@ -4,7 +4,7 @@ Hi 👋 My name is Samar Srivastav
 Software Engineer
 -----------------
 
-I've learning to code from past 4 years. I started with C and end up liking Java and started learning about Spring Boot Framework. I recently figured out that i have a keen intrest in Backend Technologies so i am also learning Node Js.
+I've learning to code from past 4 years. I started with C and end up liking Java and started learning about Spring Boot Framework. I recently figured out that i have a keen interest in Backend Technologies so i am also learning Node Js.
 
 * 🌍  I'm based in Lucknow
 * 🖥️  See my portfolio at [Samar2302](http://samar2302.github.io/)
